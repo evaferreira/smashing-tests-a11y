@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         {/* Do not do this at home!!! */}
         {/* eslint-disable */}
-        <img src={logo} className="App-logo" alt='Hello' />
+        <img src={logo} className="App-logo"/>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
